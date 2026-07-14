@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
