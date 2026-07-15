@@ -27,5 +27,6 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
