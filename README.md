@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
