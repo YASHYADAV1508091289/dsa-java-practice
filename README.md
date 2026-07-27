@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,8 +67,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
