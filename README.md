@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
@@ -19,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -63,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -75,4 +78,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
