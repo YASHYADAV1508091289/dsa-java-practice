@@ -93,4 +93,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
