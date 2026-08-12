@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,4 +103,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
