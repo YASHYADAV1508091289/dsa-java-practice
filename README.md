@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
