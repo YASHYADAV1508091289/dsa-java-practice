@@ -51,6 +51,7 @@
 | [0058-length-of-last-word](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
@@ -81,11 +82,13 @@
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
