@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
