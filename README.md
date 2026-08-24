@@ -28,6 +28,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
@@ -42,12 +43,14 @@
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
