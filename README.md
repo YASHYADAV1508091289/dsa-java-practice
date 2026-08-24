@@ -40,6 +40,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -124,4 +126,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
