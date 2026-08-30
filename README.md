@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
@@ -45,6 +46,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -73,6 +75,7 @@
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -80,6 +83,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
