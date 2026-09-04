@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -43,6 +44,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0147-insertion-sort-list) |
@@ -94,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
@@ -118,6 +121,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
