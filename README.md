@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -111,6 +112,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0137-single-number-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
