@@ -40,6 +40,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -55,6 +56,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
@@ -70,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 ## Sorting
