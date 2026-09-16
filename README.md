@@ -138,16 +138,19 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -185,4 +188,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
