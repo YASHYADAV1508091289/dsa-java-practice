@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0189-rotate-array) |
 ## Sorting
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
