@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0058-length-of-last-word) |
@@ -99,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0048-rotate-image) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
