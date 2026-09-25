@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0169-majority-element) |
