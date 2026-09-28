@@ -73,6 +73,7 @@
 | [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0234-palindrome-linked-list) |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0032-longest-valid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
