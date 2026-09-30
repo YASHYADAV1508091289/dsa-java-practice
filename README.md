@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0048-rotate-image) |
@@ -27,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0042-trapping-rain-water) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/YASHYADAV1508091289/dsa-java-practice/tree/master/0147-insertion-sort-list) |
